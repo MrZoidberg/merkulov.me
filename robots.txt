@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://mrzoidberg.github.io//github/sitemap.xml 
+Sitemap: http://merkulov.me/sitemap.xml 
