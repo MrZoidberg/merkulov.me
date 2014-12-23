@@ -3,7 +3,7 @@
 # ----------------------- #
 
 url: http://merkulov.me
-title: Блог Михаила Меркулова
+title: Mikhail Merkulov
 subtitle: 
 author: Mikhail Merkulov
 simple_search: https://www.google.com/search
@@ -99,3 +99,12 @@ google_analytics_tracking_id:
 
 # Facebook Like
 facebook_like: true
+
+#Flickr plugin
+flickr:
+  api_key: "ff70f1316a4097642094cd5078857e69"
+  secret: "26827f8c9bbc1137"
+  user_id: "19422481@N00"
+  thumb_size: 'n'
+  large_size: 'b'
+  dir: 'photos'
