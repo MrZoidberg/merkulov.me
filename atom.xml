@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Блог Михаила Меркулова]]></title>
+  <title><![CDATA[Mikhail Merkulov]]></title>
   <link href="http://merkulov.me/atom.xml" rel="self"/>
   <link href="http://merkulov.me/"/>
-  <updated>2014-11-26T00:55:02+02:00</updated>
+  <updated>2014-12-23T02:12:43+02:00</updated>
   <id>http://merkulov.me/</id>
   <author>
     <name><![CDATA[Mikhail Merkulov]]></name>
