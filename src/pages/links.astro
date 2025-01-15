@@ -1,0 +1,35 @@
+---
+const links = [
+  { name: "GitHub", url: "https://github.com/yourusername" },
+  { name: "Email", url: "mailto:youremail@example.com" },
+  // Add more links as needed
+];
+---
+
+<html>
+  <head>
+    <title>My Links</title>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        height: 100vh;
+        margin: 0;
+      }
+      a {
+        margin: 10px;
+        text-decoration: none;
+        color: #007acc;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>My Links</h1>
+    {links.map(link => (
+      <a href={link.url} target="_blank" rel="noopener noreferrer">{link.name}</a>
+    ))}
+  </body>
+</html>
